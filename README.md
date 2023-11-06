@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa-31&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-31" /> </p>
 
-- 🌱 I’m currently learning **NEXTJS** &**More Framework**
+- 🌱 I’m currently learning **NEXTJS** &**Angular JS**
 
 - 👯 I’m looking to collaborate on **React, Ui/Ux, Figma**
 
