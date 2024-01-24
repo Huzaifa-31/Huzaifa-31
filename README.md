@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **React, Ui/Ux, Figma**
 
 - 👨‍💻 All of my projects are available at [https://31huzafasameer.wixsite.com/website](https://31huzafasameer.wixsite.com/website)
-- 🤞 Want to make a site reach us at https://digiditeos.com/
+
 
 - 📫 How to reach me **31huzafasameer@gmail.com**
 
