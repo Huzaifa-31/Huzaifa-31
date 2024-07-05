@@ -28,4 +28,4 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-31&theme=dark" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huzaifa-31&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
-<a href="https://app.daily.dev/huzi"><img src="https://api.daily.dev/devcards/v2/Xt3Hl7i9gyuiQePCAkLId.png?type=wide&r=2c5" width="652" alt="Muhammad Huzaifa Sameer's Dev Card"/></a>
+<a style="padding-top: 10px; display: inline-block;" href="https://app.daily.dev/huzi"><img src="https://api.daily.dev/devcards/v2/Xt3Hl7i9gyuiQePCAkLId.png?type=wide&r=2c5" width="652" alt="Muhammad Huzaifa Sameer's Dev Card"/></a>
