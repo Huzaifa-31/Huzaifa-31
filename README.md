@@ -15,8 +15,7 @@
 - 🔭 I’m currently working on **Client Projects & Scaling DigiDittos**
 - 🌱 Exploring **Next.js, AI Integrations & Scalable Architecture**
 - 👯 Open to collaborate on **React, Next.js, UI/UX & SaaS Products**
-- 👨‍💻 Company Website: **(Add your company link here)**
-- 💼 Portfolio: https://31huzafasameer.wixsite.com/website
+- 👨‍💻 Company Website: **https://www.digidittos.com/**
 
 ---
 
